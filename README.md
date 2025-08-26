@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## link
 
-[ghandiva.biz.id](https://www.gandiva.biz.id/)
+[ghandiva.biz.id](https://www.ghandiva.biz.id/)
